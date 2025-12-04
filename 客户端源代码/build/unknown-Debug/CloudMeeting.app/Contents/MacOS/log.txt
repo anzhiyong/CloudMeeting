@@ -1,0 +1,501 @@
+2025-12-04 16:28:48 ../../../CloudMeeting/widget.cpp:Widget::39>>>-------------------------Application Start---------------------------
+2025-12-04 16:28:48 ../../../CloudMeeting/widget.cpp:Widget::40>>>main UI thread id: 0x0x1faf61f00
+2025-12-04 16:28:48 ../../../CloudMeeting/sendimg.cpp:run::17>>>start sending picture thread: 0x0x17692f000
+2025-12-04 16:28:48 ../../../CloudMeeting/sendtext.cpp:run::35>>>start sending text thread: 0x0x176a47000
+2025-12-04 16:28:48 ../../../CloudMeeting/recvsolve.cpp:run::21>>>start solving data thread: 0x0x176beb000
+2025-12-04 16:28:49 ../../../CloudMeeting/AudioOutput.cpp:run::111>>>start playing audio thread 0x0x176d03000
+2025-12-04 16:29:38 ../../../CloudMeeting/widget.cpp:on_connServer_clicked::459>>>Succeeded connecting to 127.0.0.1:8080
+2025-12-04 16:30:09 ../../../CloudMeeting/widget.cpp:on_createmeetBtn_clicked::306>>>create meeting
+2025-12-04 16:30:11 ../../../CloudMeeting/widget.cpp:datasolve::498>>>succeed creating room 42860
+2025-12-04 16:30:38 ../../../CloudMeeting/widget.cpp:on_exitmeetBtn_clicked::360>>>exit meeting
+2025-12-04 16:30:45 ../../../CloudMeeting/widget.cpp:on_connServer_clicked::459>>>Succeeded connecting to 127.0.0.1:8080
+2025-12-04 16:31:00 ../../../CloudMeeting/widget.cpp:datasolve::522>>>meeting not exist
+2025-12-04 16:31:10 ../../../CloudMeeting/widget.cpp:on_createmeetBtn_clicked::306>>>create meeting
+2025-12-04 16:31:12 ../../../CloudMeeting/widget.cpp:datasolve::498>>>succeed creating room 42860
+2025-12-04 16:31:39 ../../../CloudMeeting/widget.cpp:on_openVedio_clicked::385>>>open camera
+2025-12-04 16:31:43 ../../../CloudMeeting/widget.cpp:on_openVedio_clicked::372>>>close camera
+2025-12-04 16:31:46 ../../../CloudMeeting/widget.cpp:on_openVedio_clicked::385>>>open camera
+2025-12-04 16:31:47 ../../../CloudMeeting/widget.cpp:on_openVedio_clicked::372>>>close camera
+2025-12-04 16:32:01 ../../../CloudMeeting/widget.cpp:on_exitmeetBtn_clicked::360>>>exit meeting
+2025-12-04 16:35:10 ../../../CloudMeeting/widget.cpp:on_connServer_clicked::459>>>Succeeded connecting to 127.0.0.1:8888
+2025-12-04 16:35:19 ../../../CloudMeeting/widget.cpp:on_createmeetBtn_clicked::306>>>create meeting
+2025-12-04 16:35:20 ../../../CloudMeeting/widget.cpp:datasolve::498>>>succeed creating room 43208
+2025-12-04 16:36:49 ../../../CloudMeeting/AudioOutput.cpp:run::119>>>stop playing audio thread 0x0x176d03000
+2025-12-04 16:36:50 ../../../CloudMeeting/sendimg.cpp:run::33>>>stop sending picture thread: 0x0x17692f000
+2025-12-04 16:36:50 ../../../CloudMeeting/sendtext.cpp:run::48>>>stop sending text thread: 0x0x176a47000
+2025-12-04 16:36:50 ../../../CloudMeeting/recvsolve.cpp:run::28>>>stop solving data thread: 0x0x176beb000
+2025-12-04 16:36:50 ../../../CloudMeeting/widget.cpp:~Widget::282>>>-------------------Application End-----------------
+2025-12-04 16:38:40 ../../../CloudMeeting/widget.cpp:Widget::39>>>-------------------------Application Start---------------------------
+2025-12-04 16:38:40 ../../../CloudMeeting/widget.cpp:Widget::40>>>main UI thread id: 0x0x1faf61f00
+2025-12-04 16:38:40 ../../../CloudMeeting/sendimg.cpp:run::17>>>start sending picture thread: 0x0x16bbfb000
+2025-12-04 16:38:40 ../../../CloudMeeting/sendtext.cpp:run::35>>>start sending text thread: 0x0x16bd13000
+2025-12-04 16:38:40 ../../../CloudMeeting/recvsolve.cpp:run::21>>>start solving data thread: 0x0x16beb7000
+2025-12-04 16:38:40 ../../../CloudMeeting/AudioOutput.cpp:run::111>>>start playing audio thread 0x0x16bfcf000
+2025-12-04 16:38:58 ../../../CloudMeeting/widget.cpp:on_connServer_clicked::459>>>Succeeded connecting to 127.0.0.1:8888
+2025-12-04 16:39:04 ../../../CloudMeeting/widget.cpp:on_createmeetBtn_clicked::306>>>create meeting
+2025-12-04 16:39:05 ../../../CloudMeeting/widget.cpp:datasolve::498>>>succeed creating room 43408
+2025-12-04 16:39:26 ../../../CloudMeeting/widget.cpp:Widget::39>>>-------------------------Application Start---------------------------
+2025-12-04 16:39:26 ../../../CloudMeeting/widget.cpp:Widget::40>>>main UI thread id: 0x0x1faf61f00
+2025-12-04 16:39:27 ../../../CloudMeeting/sendimg.cpp:run::17>>>start sending picture thread: 0x0x16dde7000
+2025-12-04 16:39:27 ../../../CloudMeeting/sendtext.cpp:run::35>>>start sending text thread: 0x0x16deff000
+2025-12-04 16:39:27 ../../../CloudMeeting/recvsolve.cpp:run::21>>>start solving data thread: 0x0x16e0a3000
+2025-12-04 16:39:27 ../../../CloudMeeting/AudioOutput.cpp:run::111>>>start playing audio thread 0x0x16e1bb000
+2025-12-04 16:39:45 ../../../CloudMeeting/widget.cpp:on_connServer_clicked::459>>>Succeeded connecting to 127.0.0.1:8888
+2025-12-04 16:40:02 ../../../CloudMeeting/AudioOutput.cpp:startPlay::91>>>start playing audio
+2025-12-04 16:40:04 ../../../CloudMeeting/widget.cpp:datasolve::539>>>succeed joining room
+2025-12-04 16:40:39 ../../../CloudMeeting/widget.cpp:on_openVedio_clicked::385>>>open camera
+2025-12-04 16:40:41 ../../../CloudMeeting/AudioOutput.cpp:startPlay::91>>>start playing audio
+2025-12-04 16:40:46 ../../../CloudMeeting/widget.cpp:on_openVedio_clicked::385>>>open camera
+2025-12-04 16:41:08 ../../../CloudMeeting/AudioInput.cpp:startCollect::54>>>start collecting audio
+2025-12-04 16:41:16 ../../../CloudMeeting/AudioInput.cpp:startCollect::54>>>start collecting audio
+2025-12-04 16:41:18 ../../../CloudMeeting/AudioInput.cpp:stopCollect::64>>>stop collecting audio
+2025-12-04 16:41:23 ../../../CloudMeeting/AudioInput.cpp:stopCollect::64>>>stop collecting audio
+2025-12-04 16:41:25 ../../../CloudMeeting/widget.cpp:on_openVedio_clicked::372>>>close camera
+2025-12-04 16:42:13 ../../../CloudMeeting/AudioInput.cpp:startCollect::54>>>start collecting audio
+2025-12-04 16:42:18 ../../../CloudMeeting/AudioInput.cpp:stopCollect::64>>>stop collecting audio
+2025-12-04 16:42:34 ../../../CloudMeeting/widget.cpp:on_openVedio_clicked::372>>>close camera
+2025-12-04 16:42:36 ../../../CloudMeeting/widget.cpp:on_openVedio_clicked::385>>>open camera
+2025-12-04 16:42:36 ../../../CloudMeeting/widget.cpp:on_openVedio_clicked::372>>>close camera
+2025-12-04 16:42:44 ../../../CloudMeeting/AudioInput.cpp:startCollect::54>>>start collecting audio
+2025-12-04 16:42:51 ../../../CloudMeeting/widget.cpp:on_openVedio_clicked::385>>>open camera
+2025-12-04 16:42:54 ../../../CloudMeeting/AudioInput.cpp:startCollect::54>>>start collecting audio
+2025-12-04 16:42:56 ../../../CloudMeeting/AudioInput.cpp:stopCollect::64>>>stop collecting audio
+2025-12-04 16:42:58 ../../../CloudMeeting/AudioInput.cpp:startCollect::54>>>start collecting audio
+2025-12-04 16:43:52 ../../../CloudMeeting/widget.cpp:on_openVedio_clicked::385>>>open camera
+2025-12-04 16:43:54 ../../../CloudMeeting/AudioInput.cpp:stopCollect::64>>>stop collecting audio
+2025-12-04 16:43:55 ../../../CloudMeeting/AudioInput.cpp:startCollect::54>>>start collecting audio
+2025-12-04 16:43:55 ../../../CloudMeeting/AudioInput.cpp:stopCollect::64>>>stop collecting audio
+2025-12-04 16:43:58 ../../../CloudMeeting/AudioInput.cpp:stopCollect::64>>>stop collecting audio
+2025-12-04 16:43:59 ../../../CloudMeeting/AudioInput.cpp:startCollect::54>>>start collecting audio
+2025-12-04 16:43:59 ../../../CloudMeeting/AudioInput.cpp:stopCollect::64>>>stop collecting audio
+2025-12-04 16:44:01 ../../../CloudMeeting/widget.cpp:on_openVedio_clicked::372>>>close camera
+2025-12-04 16:44:05 ../../../CloudMeeting/AudioOutput.cpp:stopPlay::103>>>stop playing audio
+2025-12-04 16:44:05 ../../../CloudMeeting/AudioOutput.cpp:run::119>>>stop playing audio thread 0x0x16bfcf000
+2025-12-04 16:44:06 ../../../CloudMeeting/sendimg.cpp:run::33>>>stop sending picture thread: 0x0x16bbfb000
+2025-12-04 16:44:07 ../../../CloudMeeting/sendtext.cpp:run::48>>>stop sending text thread: 0x0x16bd13000
+2025-12-04 16:44:07 ../../../CloudMeeting/recvsolve.cpp:run::28>>>stop solving data thread: 0x0x16beb7000
+2025-12-04 16:44:07 ../../../CloudMeeting/AudioOutput.cpp:stopPlay::103>>>stop playing audio
+2025-12-04 16:44:07 ../../../CloudMeeting/AudioOutput.cpp:run::119>>>stop playing audio thread 0x0x16e1bb000
+2025-12-04 16:44:08 ../../../CloudMeeting/widget.cpp:~Widget::282>>>-------------------Application End-----------------
+2025-12-04 16:44:08 ../../../CloudMeeting/sendimg.cpp:run::33>>>stop sending picture thread: 0x0x16dde7000
+2025-12-04 16:44:09 ../../../CloudMeeting/sendtext.cpp:run::48>>>stop sending text thread: 0x0x16deff000
+2025-12-04 16:57:13 ../../../CloudMeeting/widget.cpp:Widget::39>>>-------------------------Application Start---------------------------
+2025-12-04 16:57:13 ../../../CloudMeeting/widget.cpp:Widget::40>>>main UI thread id: 0x0x1faf61f00
+2025-12-04 16:57:13 ../../../CloudMeeting/sendimg.cpp:run::17>>>start sending picture thread: 0x0x16da87000
+2025-12-04 16:57:13 ../../../CloudMeeting/sendtext.cpp:run::35>>>start sending text thread: 0x0x16db9f000
+2025-12-04 16:57:13 ../../../CloudMeeting/recvsolve.cpp:run::21>>>start solving data thread: 0x0x16dd43000
+2025-12-04 16:57:13 ../../../CloudMeeting/AudioOutput.cpp:run::111>>>start playing audio thread 0x0x16de5b000
+2025-12-04 16:57:25 ../../../CloudMeeting/widget.cpp:on_connServer_clicked::461>>>Succeeded connecting to 127.0.0.1:8888
+2025-12-04 16:57:28 ../../../CloudMeeting/widget.cpp:Widget::39>>>-------------------------Application Start---------------------------
+2025-12-04 16:57:28 ../../../CloudMeeting/widget.cpp:Widget::40>>>main UI thread id: 0x0x1faf61f00
+2025-12-04 16:57:28 ../../../CloudMeeting/sendimg.cpp:run::17>>>start sending picture thread: 0x0x16d853000
+2025-12-04 16:57:28 ../../../CloudMeeting/sendtext.cpp:run::35>>>start sending text thread: 0x0x16d96b000
+2025-12-04 16:57:28 ../../../CloudMeeting/recvsolve.cpp:run::21>>>start solving data thread: 0x0x16db0f000
+2025-12-04 16:57:28 ../../../CloudMeeting/AudioOutput.cpp:run::111>>>start playing audio thread 0x0x16dc27000
+2025-12-04 16:57:49 ../../../CloudMeeting/widget.cpp:on_connServer_clicked::461>>>Succeeded connecting to 127.0.0.1:8888
+2025-12-04 16:58:03 ../../../CloudMeeting/widget.cpp:on_createmeetBtn_clicked::308>>>create meeting
+2025-12-04 16:58:04 ../../../CloudMeeting/widget.cpp:datasolve::500>>>succeed creating room 44172
+2025-12-04 16:58:12 ../../../CloudMeeting/AudioOutput.cpp:startPlay::91>>>start playing audio
+2025-12-04 16:58:15 ../../../CloudMeeting/widget.cpp:datasolve::541>>>succeed joining room
+2025-12-04 16:58:15 ../../../CloudMeeting/AudioOutput.cpp:startPlay::91>>>start playing audio
+2025-12-04 16:58:22 ../../../CloudMeeting/AudioInput.cpp:startCollect::54>>>start collecting audio
+2025-12-04 16:58:29 ../../../CloudMeeting/AudioInput.cpp:stopCollect::64>>>stop collecting audio
+2025-12-04 16:58:30 ../../../CloudMeeting/widget.cpp:on_openVedio_clicked::387>>>open camera
+2025-12-04 17:00:08 ../../../CloudMeeting/AudioOutput.cpp:stopPlay::103>>>stop playing audio
+2025-12-04 17:00:08 ../../../CloudMeeting/AudioOutput.cpp:stopPlay::103>>>stop playing audio
+2025-12-04 17:00:10 ../../../CloudMeeting/widget.cpp:on_exitmeetBtn_clicked::362>>>exit meeting
+2025-12-04 17:00:15 ../../../CloudMeeting/AudioOutput.cpp:run::119>>>stop playing audio thread 0x0x16dc27000
+2025-12-04 17:00:16 ../../../CloudMeeting/widget.cpp:on_exitmeetBtn_clicked::362>>>exit meeting
+2025-12-04 17:00:16 ../../../CloudMeeting/sendimg.cpp:run::33>>>stop sending picture thread: 0x0x16d853000
+2025-12-04 17:00:18 ../../../CloudMeeting/sendtext.cpp:run::48>>>stop sending text thread: 0x0x16d96b000
+2025-12-04 17:00:18 ../../../CloudMeeting/recvsolve.cpp:run::28>>>stop solving data thread: 0x0x16db0f000
+2025-12-04 17:00:18 ../../../CloudMeeting/widget.cpp:~Widget::284>>>-------------------Application End-----------------
+2025-12-04 17:00:19 ../../../CloudMeeting/AudioOutput.cpp:run::119>>>stop playing audio thread 0x0x16de5b000
+2025-12-04 17:00:20 ../../../CloudMeeting/sendimg.cpp:run::33>>>stop sending picture thread: 0x0x16da87000
+2025-12-04 17:00:20 ../../../CloudMeeting/sendtext.cpp:run::48>>>stop sending text thread: 0x0x16db9f000
+2025-12-04 17:00:22 ../../../CloudMeeting/recvsolve.cpp:run::28>>>stop solving data thread: 0x0x16dd43000
+2025-12-04 17:00:22 ../../../CloudMeeting/widget.cpp:~Widget::284>>>-------------------Application End-----------------
+2025-12-04 17:07:03 ../../../CloudMeeting/widget.cpp:Widget::39>>>-------------------------Application Start---------------------------
+2025-12-04 17:07:03 ../../../CloudMeeting/widget.cpp:Widget::40>>>main UI thread id: 0x0x1faf61f00
+2025-12-04 17:07:03 ../../../CloudMeeting/sendimg.cpp:run::17>>>start sending picture thread: 0x0x16b673000
+2025-12-04 17:07:03 ../../../CloudMeeting/sendtext.cpp:run::35>>>start sending text thread: 0x0x16b78b000
+2025-12-04 17:07:03 ../../../CloudMeeting/recvsolve.cpp:run::21>>>start solving data thread: 0x0x16b92f000
+2025-12-04 17:07:03 ../../../CloudMeeting/AudioOutput.cpp:run::111>>>start playing audio thread 0x0x16ba47000
+2025-12-04 17:07:12 ../../../CloudMeeting/widget.cpp:on_connServer_clicked::461>>>Succeeded connecting to 127.0.0.1:8888
+2025-12-04 17:07:15 ../../../CloudMeeting/widget.cpp:Widget::39>>>-------------------------Application Start---------------------------
+2025-12-04 17:07:15 ../../../CloudMeeting/widget.cpp:Widget::40>>>main UI thread id: 0x0x1faf61f00
+2025-12-04 17:07:15 ../../../CloudMeeting/sendimg.cpp:run::17>>>start sending picture thread: 0x0x16f44f000
+2025-12-04 17:07:15 ../../../CloudMeeting/sendtext.cpp:run::35>>>start sending text thread: 0x0x16f567000
+2025-12-04 17:07:15 ../../../CloudMeeting/recvsolve.cpp:run::21>>>start solving data thread: 0x0x16f70b000
+2025-12-04 17:07:15 ../../../CloudMeeting/AudioOutput.cpp:run::111>>>start playing audio thread 0x0x16f823000
+2025-12-04 17:07:27 ../../../CloudMeeting/widget.cpp:on_connServer_clicked::461>>>Succeeded connecting to 127.0.0.1:8888
+2025-12-04 17:07:32 ../../../CloudMeeting/widget.cpp:on_createmeetBtn_clicked::308>>>create meeting
+2025-12-04 17:07:34 ../../../CloudMeeting/widget.cpp:datasolve::500>>>succeed creating room 44598
+2025-12-04 17:07:39 ../../../CloudMeeting/AudioOutput.cpp:startPlay::91>>>start playing audio
+2025-12-04 17:07:41 ../../../CloudMeeting/widget.cpp:datasolve::541>>>succeed joining room
+2025-12-04 17:07:41 ../../../CloudMeeting/AudioOutput.cpp:startPlay::91>>>start playing audio
+2025-12-04 17:08:19 ../../../CloudMeeting/widget.cpp:on_openVedio_clicked::387>>>open camera
+2025-12-04 17:08:30 ../../../CloudMeeting/AudioOutput.cpp:stopPlay::103>>>stop playing audio
+2025-12-04 17:08:30 ../../../CloudMeeting/AudioOutput.cpp:stopPlay::103>>>stop playing audio
+2025-12-04 17:08:31 ../../../CloudMeeting/widget.cpp:on_exitmeetBtn_clicked::362>>>exit meeting
+2025-12-04 17:08:48 ../../../CloudMeeting/widget.cpp:on_connServer_clicked::461>>>Succeeded connecting to 127.0.0.1:8888
+2025-12-04 17:08:57 ../../../CloudMeeting/AudioOutput.cpp:startPlay::91>>>start playing audio
+2025-12-04 17:08:59 ../../../CloudMeeting/widget.cpp:datasolve::541>>>succeed joining room
+2025-12-04 17:08:59 ../../../CloudMeeting/AudioOutput.cpp:startPlay::91>>>start playing audio
+2025-12-04 17:09:09 ../../../CloudMeeting/AudioOutput.cpp:stopPlay::103>>>stop playing audio
+2025-12-04 17:09:11 ../../../CloudMeeting/AudioOutput.cpp:stopPlay::103>>>stop playing audio
+2025-12-04 17:09:11 ../../../CloudMeeting/AudioOutput.cpp:run::119>>>stop playing audio thread 0x0x16f823000
+2025-12-04 17:09:13 ../../../CloudMeeting/widget.cpp:on_exitmeetBtn_clicked::362>>>exit meeting
+2025-12-04 17:09:13 ../../../CloudMeeting/sendimg.cpp:run::33>>>stop sending picture thread: 0x0x16f44f000
+2025-12-04 17:09:13 ../../../CloudMeeting/sendtext.cpp:run::48>>>stop sending text thread: 0x0x16f567000
+2025-12-04 17:10:51 ../../../CloudMeeting/widget.cpp:Widget::39>>>-------------------------Application Start---------------------------
+2025-12-04 17:10:51 ../../../CloudMeeting/widget.cpp:Widget::40>>>main UI thread id: 0x0x1faf61f00
+2025-12-04 17:10:52 ../../../CloudMeeting/sendimg.cpp:run::17>>>start sending picture thread: 0x0x16d943000
+2025-12-04 17:10:52 ../../../CloudMeeting/sendtext.cpp:run::35>>>start sending text thread: 0x0x16da5b000
+2025-12-04 17:10:52 ../../../CloudMeeting/recvsolve.cpp:run::21>>>start solving data thread: 0x0x16dbff000
+2025-12-04 17:10:52 ../../../CloudMeeting/AudioOutput.cpp:run::111>>>start playing audio thread 0x0x16dd17000
+2025-12-04 17:10:56 ../../../CloudMeeting/AudioOutput.cpp:run::119>>>stop playing audio thread 0x0x16dd17000
+2025-12-04 17:10:58 ../../../CloudMeeting/sendimg.cpp:run::33>>>stop sending picture thread: 0x0x16d943000
+2025-12-04 17:10:58 ../../../CloudMeeting/sendtext.cpp:run::48>>>stop sending text thread: 0x0x16da5b000
+2025-12-04 17:10:58 ../../../CloudMeeting/recvsolve.cpp:run::28>>>stop solving data thread: 0x0x16dbff000
+2025-12-04 17:10:58 ../../../CloudMeeting/widget.cpp:~Widget::284>>>-------------------Application End-----------------
+2025-12-04 17:11:11 ../../../CloudMeeting/AudioOutput.cpp:run::119>>>stop playing audio thread 0x0x16ba47000
+2025-12-04 17:11:13 ../../../CloudMeeting/sendimg.cpp:run::33>>>stop sending picture thread: 0x0x16b673000
+2025-12-04 17:11:14 ../../../CloudMeeting/sendtext.cpp:run::48>>>stop sending text thread: 0x0x16b78b000
+2025-12-04 17:11:16 ../../../CloudMeeting/recvsolve.cpp:run::28>>>stop solving data thread: 0x0x16b92f000
+2025-12-04 17:11:16 ../../../CloudMeeting/widget.cpp:~Widget::284>>>-------------------Application End-----------------
+2025-12-04 17:11:25 ../../../CloudMeeting/widget.cpp:Widget::39>>>-------------------------Application Start---------------------------
+2025-12-04 17:11:25 ../../../CloudMeeting/widget.cpp:Widget::40>>>main UI thread id: 0x0x1faf61f00
+2025-12-04 17:11:25 ../../../CloudMeeting/sendimg.cpp:run::17>>>start sending picture thread: 0x0x16b31b000
+2025-12-04 17:11:25 ../../../CloudMeeting/sendtext.cpp:run::35>>>start sending text thread: 0x0x16b433000
+2025-12-04 17:11:25 ../../../CloudMeeting/recvsolve.cpp:run::21>>>start solving data thread: 0x0x16b5d7000
+2025-12-04 17:11:25 ../../../CloudMeeting/AudioOutput.cpp:run::111>>>start playing audio thread 0x0x16b6ef000
+2025-12-04 17:11:36 ../../../CloudMeeting/widget.cpp:Widget::39>>>-------------------------Application Start---------------------------
+2025-12-04 17:11:36 ../../../CloudMeeting/widget.cpp:Widget::40>>>main UI thread id: 0x0x1faf61f00
+2025-12-04 17:11:37 ../../../CloudMeeting/sendtext.cpp:run::35>>>start sending text thread: 0x0x16f863000
+2025-12-04 17:11:37 ../../../CloudMeeting/sendimg.cpp:run::17>>>start sending picture thread: 0x0x16f74b000
+2025-12-04 17:11:37 ../../../CloudMeeting/recvsolve.cpp:run::21>>>start solving data thread: 0x0x16fa07000
+2025-12-04 17:11:37 ../../../CloudMeeting/AudioOutput.cpp:run::111>>>start playing audio thread 0x0x16fb1f000
+2025-12-04 17:11:52 ../../../CloudMeeting/widget.cpp:on_connServer_clicked::461>>>Succeeded connecting to 127.0.0.1:8888
+2025-12-04 17:11:57 ../../../CloudMeeting/widget.cpp:on_createmeetBtn_clicked::308>>>create meeting
+2025-12-04 17:11:59 ../../../CloudMeeting/widget.cpp:datasolve::500>>>succeed creating room 44838
+2025-12-04 17:12:18 ../../../CloudMeeting/widget.cpp:on_connServer_clicked::466>>>Failed to connect 192.168.1.126:8888, error: Socket operation timed out
+2025-12-04 17:12:29 ../../../CloudMeeting/widget.cpp:on_connServer_clicked::461>>>Succeeded connecting to 127.0.0.1:8888
+2025-12-04 17:12:38 ../../../CloudMeeting/AudioOutput.cpp:startPlay::91>>>start playing audio
+2025-12-04 17:12:41 ../../../CloudMeeting/widget.cpp:datasolve::541>>>succeed joining room
+2025-12-04 17:12:41 ../../../CloudMeeting/AudioOutput.cpp:startPlay::91>>>start playing audio
+2025-12-04 17:13:23 ../../../CloudMeeting/AudioOutput.cpp:stopPlay::103>>>stop playing audio
+2025-12-04 17:13:23 ../../../CloudMeeting/AudioOutput.cpp:stopPlay::103>>>stop playing audio
+2025-12-04 17:13:23 ../../../CloudMeeting/widget.cpp:on_exitmeetBtn_clicked::362>>>exit meeting
+2025-12-04 17:13:30 ../../../CloudMeeting/widget.cpp:on_exitmeetBtn_clicked::362>>>exit meeting
+2025-12-04 17:13:59 ../../../CloudMeeting/widget.cpp:on_connServer_clicked::461>>>Succeeded connecting to 127.0.0.1:8888
+2025-12-04 17:14:01 ../../../CloudMeeting/widget.cpp:on_createmeetBtn_clicked::308>>>create meeting
+2025-12-04 17:14:03 ../../../CloudMeeting/widget.cpp:datasolve::500>>>succeed creating room 44953
+2025-12-04 17:14:07 ../../../CloudMeeting/widget.cpp:on_connServer_clicked::461>>>Succeeded connecting to 127.0.0.1:8888
+2025-12-04 17:14:13 ../../../CloudMeeting/AudioOutput.cpp:startPlay::91>>>start playing audio
+2025-12-04 17:14:15 ../../../CloudMeeting/widget.cpp:datasolve::541>>>succeed joining room
+2025-12-04 17:14:15 ../../../CloudMeeting/AudioOutput.cpp:startPlay::91>>>start playing audio
+2025-12-04 17:14:55 ../../../CloudMeeting/AudioOutput.cpp:stopPlay::103>>>stop playing audio
+2025-12-04 17:14:55 ../../../CloudMeeting/AudioOutput.cpp:stopPlay::103>>>stop playing audio
+2025-12-04 17:14:56 ../../../CloudMeeting/widget.cpp:on_exitmeetBtn_clicked::362>>>exit meeting
+2025-12-04 17:14:59 ../../../CloudMeeting/widget.cpp:on_exitmeetBtn_clicked::362>>>exit meeting
+2025-12-04 17:18:43 ../../../CloudMeeting/widget.cpp:on_connServer_clicked::461>>>Succeeded connecting to 127.0.0.1:8888
+2025-12-04 17:18:46 ../../../CloudMeeting/widget.cpp:on_createmeetBtn_clicked::308>>>create meeting
+2025-12-04 17:18:48 ../../../CloudMeeting/widget.cpp:datasolve::500>>>succeed creating room 45676
+2025-12-04 17:18:52 ../../../CloudMeeting/widget.cpp:on_connServer_clicked::461>>>Succeeded connecting to 127.0.0.1:8888
+2025-12-04 17:18:58 ../../../CloudMeeting/AudioOutput.cpp:startPlay::91>>>start playing audio
+2025-12-04 17:18:59 ../../../CloudMeeting/widget.cpp:datasolve::541>>>succeed joining room
+2025-12-04 17:18:59 ../../../CloudMeeting/AudioOutput.cpp:startPlay::91>>>start playing audio
+2025-12-04 17:20:09 ../../../CloudMeeting/AudioOutput.cpp:stopPlay::103>>>stop playing audio
+2025-12-04 17:20:09 ../../../CloudMeeting/AudioOutput.cpp:stopPlay::103>>>stop playing audio
+2025-12-04 17:20:11 ../../../CloudMeeting/widget.cpp:on_exitmeetBtn_clicked::362>>>exit meeting
+2025-12-04 17:26:15 ../../../CloudMeeting/widget.cpp:on_connServer_clicked::461>>>Succeeded connecting to 127.0.0.1:8888
+2025-12-04 17:26:42 ../../../CloudMeeting/widget.cpp:datasolve::524>>>meeting not exist
+2025-12-04 17:26:50 ../../../CloudMeeting/widget.cpp:on_connServer_clicked::461>>>Succeeded connecting to 127.0.0.1:8888
+2025-12-04 17:26:56 ../../../CloudMeeting/widget.cpp:on_createmeetBtn_clicked::308>>>create meeting
+2025-12-04 17:27:06 ../../../CloudMeeting/AudioOutput.cpp:run::119>>>stop playing audio thread 0x0x16b6ef000
+2025-12-04 17:27:08 ../../../CloudMeeting/AudioOutput.cpp:run::119>>>stop playing audio thread 0x0x16fb1f000
+2025-12-04 17:27:08 ../../../CloudMeeting/sendimg.cpp:run::33>>>stop sending picture thread: 0x0x16b31b000
+2025-12-04 17:27:10 ../../../CloudMeeting/sendimg.cpp:run::33>>>stop sending picture thread: 0x0x16f74b000
+2025-12-04 17:27:10 ../../../CloudMeeting/sendtext.cpp:run::48>>>stop sending text thread: 0x0x16f863000
+2025-12-04 17:27:10 ../../../CloudMeeting/sendtext.cpp:run::48>>>stop sending text thread: 0x0x16b433000
+2025-12-04 17:27:12 ../../../CloudMeeting/recvsolve.cpp:run::28>>>stop solving data thread: 0x0x16fa07000
+2025-12-04 17:27:12 ../../../CloudMeeting/recvsolve.cpp:run::28>>>stop solving data thread: 0x0x16b5d7000
+2025-12-04 17:27:12 ../../../CloudMeeting/widget.cpp:~Widget::284>>>-------------------Application End-----------------
+2025-12-04 17:27:12 ../../../CloudMeeting/widget.cpp:~Widget::284>>>-------------------Application End-----------------
+2025-12-04 17:27:18 ../../../CloudMeeting/widget.cpp:Widget::39>>>-------------------------Application Start---------------------------
+2025-12-04 17:27:18 ../../../CloudMeeting/widget.cpp:Widget::40>>>main UI thread id: 0x0x1faf61f00
+2025-12-04 17:27:18 ../../../CloudMeeting/sendimg.cpp:run::17>>>start sending picture thread: 0x0x16f683000
+2025-12-04 17:27:18 ../../../CloudMeeting/sendtext.cpp:run::35>>>start sending text thread: 0x0x16f79b000
+2025-12-04 17:27:18 ../../../CloudMeeting/recvsolve.cpp:run::21>>>start solving data thread: 0x0x16f93f000
+2025-12-04 17:27:18 ../../../CloudMeeting/AudioOutput.cpp:run::111>>>start playing audio thread 0x0x16fa57000
+2025-12-04 17:27:22 ../../../CloudMeeting/AudioOutput.cpp:run::119>>>stop playing audio thread 0x0x16fa57000
+2025-12-04 17:27:24 ../../../CloudMeeting/sendimg.cpp:run::33>>>stop sending picture thread: 0x0x16f683000
+2025-12-04 17:27:26 ../../../CloudMeeting/sendtext.cpp:run::48>>>stop sending text thread: 0x0x16f79b000
+2025-12-04 17:27:26 ../../../CloudMeeting/recvsolve.cpp:run::28>>>stop solving data thread: 0x0x16f93f000
+2025-12-04 17:27:26 ../../../CloudMeeting/widget.cpp:~Widget::284>>>-------------------Application End-----------------
+2025-12-04 17:27:31 ../../../CloudMeeting/widget.cpp:Widget::39>>>-------------------------Application Start---------------------------
+2025-12-04 17:27:31 ../../../CloudMeeting/widget.cpp:Widget::40>>>main UI thread id: 0x0x1faf61f00
+2025-12-04 17:27:31 ../../../CloudMeeting/sendimg.cpp:run::17>>>start sending picture thread: 0x0x16ffdb000
+2025-12-04 17:27:31 ../../../CloudMeeting/sendtext.cpp:run::35>>>start sending text thread: 0x0x1700f3000
+2025-12-04 17:27:31 ../../../CloudMeeting/recvsolve.cpp:run::21>>>start solving data thread: 0x0x170297000
+2025-12-04 17:27:31 ../../../CloudMeeting/AudioOutput.cpp:run::111>>>start playing audio thread 0x0x1703af000
+2025-12-04 17:27:40 ../../../CloudMeeting/widget.cpp:on_connServer_clicked::461>>>Succeeded connecting to 127.0.0.1:8888
+2025-12-04 17:27:43 ../../../CloudMeeting/widget.cpp:on_createmeetBtn_clicked::308>>>create meeting
+2025-12-04 17:27:44 ../../../CloudMeeting/widget.cpp:datasolve::500>>>succeed creating room 46119
+2025-12-04 17:27:46 ../../../CloudMeeting/widget.cpp:Widget::39>>>-------------------------Application Start---------------------------
+2025-12-04 17:27:46 ../../../CloudMeeting/widget.cpp:Widget::40>>>main UI thread id: 0x0x1faf61f00
+2025-12-04 17:27:46 ../../../CloudMeeting/sendimg.cpp:run::17>>>start sending picture thread: 0x0x16bdeb000
+2025-12-04 17:27:46 ../../../CloudMeeting/sendtext.cpp:run::35>>>start sending text thread: 0x0x16bf03000
+2025-12-04 17:27:46 ../../../CloudMeeting/recvsolve.cpp:run::21>>>start solving data thread: 0x0x16c0a7000
+2025-12-04 17:27:46 ../../../CloudMeeting/AudioOutput.cpp:run::111>>>start playing audio thread 0x0x16c1bf000
+2025-12-04 17:28:03 ../../../CloudMeeting/widget.cpp:on_connServer_clicked::461>>>Succeeded connecting to 127.0.0.1:8888
+2025-12-04 17:28:09 ../../../CloudMeeting/AudioOutput.cpp:startPlay::91>>>start playing audio
+2025-12-04 17:28:10 ../../../CloudMeeting/widget.cpp:datasolve::541>>>succeed joining room
+2025-12-04 17:28:30 ../../../CloudMeeting/AudioOutput.cpp:startPlay::91>>>start playing audio
+2025-12-04 17:28:36 ../../../CloudMeeting/widget.cpp:on_openVedio_clicked::387>>>open camera
+2025-12-04 17:28:47 ../../../CloudMeeting/widget.cpp:on_openVedio_clicked::374>>>close camera
+2025-12-04 17:30:04 ../../../CloudMeeting/AudioOutput.cpp:stopPlay::103>>>stop playing audio
+2025-12-04 17:30:04 ../../../CloudMeeting/AudioOutput.cpp:stopPlay::103>>>stop playing audio
+2025-12-04 17:30:04 ../../../CloudMeeting/widget.cpp:on_exitmeetBtn_clicked::362>>>exit meeting
+2025-12-04 17:30:07 ../../../CloudMeeting/widget.cpp:on_exitmeetBtn_clicked::362>>>exit meeting
+2025-12-04 17:33:29 ../../../CloudMeeting/AudioOutput.cpp:run::119>>>stop playing audio thread 0x0x1703af000
+2025-12-04 17:33:31 ../../../CloudMeeting/AudioOutput.cpp:run::119>>>stop playing audio thread 0x0x16c1bf000
+2025-12-04 17:33:31 ../../../CloudMeeting/sendimg.cpp:run::33>>>stop sending picture thread: 0x0x16ffdb000
+2025-12-04 17:33:31 ../../../CloudMeeting/sendimg.cpp:run::33>>>stop sending picture thread: 0x0x16bdeb000
+2025-12-04 17:33:32 ../../../CloudMeeting/sendtext.cpp:run::48>>>stop sending text thread: 0x0x1700f3000
+2025-12-04 17:33:32 ../../../CloudMeeting/recvsolve.cpp:run::28>>>stop solving data thread: 0x0x170297000
+2025-12-04 17:33:32 ../../../CloudMeeting/widget.cpp:~Widget::284>>>-------------------Application End-----------------
+2025-12-04 17:33:32 ../../../CloudMeeting/sendtext.cpp:run::48>>>stop sending text thread: 0x0x16bf03000
+2025-12-04 17:33:34 ../../../CloudMeeting/recvsolve.cpp:run::28>>>stop solving data thread: 0x0x16c0a7000
+2025-12-04 17:33:34 ../../../CloudMeeting/widget.cpp:~Widget::284>>>-------------------Application End-----------------
+2025-12-04 17:33:42 ../../../CloudMeeting/widget.cpp:Widget::39>>>-------------------------Application Start---------------------------
+2025-12-04 17:33:42 ../../../CloudMeeting/widget.cpp:Widget::40>>>main UI thread id: 0x0x1faf61f00
+2025-12-04 17:33:42 ../../../CloudMeeting/sendimg.cpp:run::17>>>start sending picture thread: 0x0x16fb17000
+2025-12-04 17:33:42 ../../../CloudMeeting/sendtext.cpp:run::35>>>start sending text thread: 0x0x16fc2f000
+2025-12-04 17:33:42 ../../../CloudMeeting/recvsolve.cpp:run::21>>>start solving data thread: 0x0x16fdd3000
+2025-12-04 17:33:42 ../../../CloudMeeting/AudioOutput.cpp:run::111>>>start playing audio thread 0x0x16feeb000
+2025-12-04 17:33:50 ../../../CloudMeeting/widget.cpp:on_connServer_clicked::461>>>Succeeded connecting to 127.0.0.1:8888
+2025-12-04 17:33:53 ../../../CloudMeeting/widget.cpp:Widget::39>>>-------------------------Application Start---------------------------
+2025-12-04 17:33:53 ../../../CloudMeeting/widget.cpp:Widget::40>>>main UI thread id: 0x0x1faf61f00
+2025-12-04 17:33:53 ../../../CloudMeeting/sendimg.cpp:run::17>>>start sending picture thread: 0x0x16f42f000
+2025-12-04 17:33:53 ../../../CloudMeeting/sendtext.cpp:run::35>>>start sending text thread: 0x0x16f547000
+2025-12-04 17:33:53 ../../../CloudMeeting/recvsolve.cpp:run::21>>>start solving data thread: 0x0x16f6eb000
+2025-12-04 17:33:53 ../../../CloudMeeting/AudioOutput.cpp:run::111>>>start playing audio thread 0x0x16f803000
+2025-12-04 17:33:57 ../../../CloudMeeting/widget.cpp:on_createmeetBtn_clicked::308>>>create meeting
+2025-12-04 17:33:58 ../../../CloudMeeting/widget.cpp:datasolve::500>>>succeed creating room 46119
+2025-12-04 17:34:12 ../../../CloudMeeting/widget.cpp:on_connServer_clicked::461>>>Succeeded connecting to 127.0.0.1:8888
+2025-12-04 17:34:15 ../../../CloudMeeting/AudioOutput.cpp:startPlay::91>>>start playing audio
+2025-12-04 17:34:17 ../../../CloudMeeting/widget.cpp:datasolve::541>>>succeed joining room
+2025-12-04 17:34:17 ../../../CloudMeeting/AudioOutput.cpp:startPlay::91>>>start playing audio
+2025-12-04 17:36:23 ../../../CloudMeeting/AudioOutput.cpp:stopPlay::103>>>stop playing audio
+2025-12-04 17:36:23 ../../../CloudMeeting/AudioOutput.cpp:stopPlay::103>>>stop playing audio
+2025-12-04 17:36:23 ../../../CloudMeeting/widget.cpp:on_exitmeetBtn_clicked::362>>>exit meeting
+2025-12-04 17:36:28 ../../../CloudMeeting/widget.cpp:on_exitmeetBtn_clicked::362>>>exit meeting
+2025-12-04 17:39:19 ../../../CloudMeeting/AudioOutput.cpp:run::119>>>stop playing audio thread 0x0x16feeb000
+2025-12-04 17:39:21 ../../../CloudMeeting/sendimg.cpp:run::33>>>stop sending picture thread: 0x0x16fb17000
+2025-12-04 17:39:22 ../../../CloudMeeting/AudioOutput.cpp:run::119>>>stop playing audio thread 0x0x16f803000
+2025-12-04 17:39:22 ../../../CloudMeeting/sendtext.cpp:run::48>>>stop sending text thread: 0x0x16fc2f000
+2025-12-04 17:39:23 ../../../CloudMeeting/recvsolve.cpp:run::28>>>stop solving data thread: 0x0x16fdd3000
+2025-12-04 17:39:23 ../../../CloudMeeting/widget.cpp:~Widget::284>>>-------------------Application End-----------------
+2025-12-04 17:39:24 ../../../CloudMeeting/sendimg.cpp:run::33>>>stop sending picture thread: 0x0x16f42f000
+2025-12-04 17:39:25 ../../../CloudMeeting/sendtext.cpp:run::48>>>stop sending text thread: 0x0x16f547000
+2025-12-04 17:39:26 ../../../CloudMeeting/recvsolve.cpp:run::28>>>stop solving data thread: 0x0x16f6eb000
+2025-12-04 17:39:26 ../../../CloudMeeting/widget.cpp:~Widget::284>>>-------------------Application End-----------------
+2025-12-04 17:39:31 ../../../CloudMeeting/widget.cpp:Widget::39>>>-------------------------Application Start---------------------------
+2025-12-04 17:39:31 ../../../CloudMeeting/widget.cpp:Widget::40>>>main UI thread id: 0x0x1faf61f00
+2025-12-04 17:39:31 ../../../CloudMeeting/sendimg.cpp:run::17>>>start sending picture thread: 0x0x16da57000
+2025-12-04 17:39:31 ../../../CloudMeeting/sendtext.cpp:run::35>>>start sending text thread: 0x0x16db6f000
+2025-12-04 17:39:31 ../../../CloudMeeting/recvsolve.cpp:run::21>>>start solving data thread: 0x0x16dd13000
+2025-12-04 17:39:31 ../../../CloudMeeting/AudioOutput.cpp:run::111>>>start playing audio thread 0x0x16de2b000
+2025-12-04 17:39:40 ../../../CloudMeeting/widget.cpp:on_connServer_clicked::461>>>Succeeded connecting to 127.0.0.1:8888
+2025-12-04 17:39:43 ../../../CloudMeeting/widget.cpp:on_createmeetBtn_clicked::308>>>create meeting
+2025-12-04 17:39:45 ../../../CloudMeeting/widget.cpp:datasolve::500>>>succeed creating room 46119
+2025-12-04 17:40:27 ../../../CloudMeeting/AudioOutput.cpp:run::119>>>stop playing audio thread 0x0x16de2b000
+2025-12-04 17:40:29 ../../../CloudMeeting/sendimg.cpp:run::33>>>stop sending picture thread: 0x0x16da57000
+2025-12-04 17:40:31 ../../../CloudMeeting/sendtext.cpp:run::48>>>stop sending text thread: 0x0x16db6f000
+2025-12-04 17:40:33 ../../../CloudMeeting/recvsolve.cpp:run::28>>>stop solving data thread: 0x0x16dd13000
+2025-12-04 17:40:33 ../../../CloudMeeting/widget.cpp:~Widget::284>>>-------------------Application End-----------------
+2025-12-04 17:46:57 ../../../CloudMeeting/widget.cpp:Widget::39>>>-------------------------Application Start---------------------------
+2025-12-04 17:46:57 ../../../CloudMeeting/widget.cpp:Widget::40>>>main UI thread id: 0x0x1faf61f00
+2025-12-04 17:46:57 ../../../CloudMeeting/sendimg.cpp:run::17>>>start sending picture thread: 0x0x178c97000
+2025-12-04 17:46:57 ../../../CloudMeeting/sendtext.cpp:run::35>>>start sending text thread: 0x0x178daf000
+2025-12-04 17:46:57 ../../../CloudMeeting/recvsolve.cpp:run::21>>>start solving data thread: 0x0x178f53000
+2025-12-04 17:46:57 ../../../CloudMeeting/AudioOutput.cpp:run::111>>>start playing audio thread 0x0x17906b000
+2025-12-04 17:47:06 ../../../CloudMeeting/widget.cpp:on_connServer_clicked::461>>>Succeeded connecting to 127.0.0.1:8888
+2025-12-04 17:47:10 ../../../CloudMeeting/widget.cpp:on_createmeetBtn_clicked::308>>>create meeting
+2025-12-04 17:47:12 ../../../CloudMeeting/widget.cpp:datasolve::500>>>succeed creating room 47844
+2025-12-04 17:47:15 ../../../CloudMeeting/widget.cpp:Widget::39>>>-------------------------Application Start---------------------------
+2025-12-04 17:47:15 ../../../CloudMeeting/widget.cpp:Widget::40>>>main UI thread id: 0x0x1faf61f00
+2025-12-04 17:47:15 ../../../CloudMeeting/sendimg.cpp:run::17>>>start sending picture thread: 0x0x16d4a3000
+2025-12-04 17:47:15 ../../../CloudMeeting/sendtext.cpp:run::35>>>start sending text thread: 0x0x16d5bb000
+2025-12-04 17:47:15 ../../../CloudMeeting/recvsolve.cpp:run::21>>>start solving data thread: 0x0x16d75f000
+2025-12-04 17:47:15 ../../../CloudMeeting/AudioOutput.cpp:run::111>>>start playing audio thread 0x0x16d877000
+2025-12-04 17:47:25 ../../../CloudMeeting/widget.cpp:on_connServer_clicked::461>>>Succeeded connecting to 127.0.0.1:8888
+2025-12-04 17:47:32 ../../../CloudMeeting/AudioOutput.cpp:startPlay::91>>>start playing audio
+2025-12-04 17:47:34 ../../../CloudMeeting/widget.cpp:datasolve::541>>>succeed joining room
+2025-12-04 17:47:34 ../../../CloudMeeting/AudioOutput.cpp:startPlay::91>>>start playing audio
+2025-12-04 17:49:08 ../../../CloudMeeting/AudioOutput.cpp:stopPlay::103>>>stop playing audio
+2025-12-04 17:49:09 ../../../CloudMeeting/AudioOutput.cpp:run::119>>>stop playing audio thread 0x0x16d877000
+2025-12-04 17:49:11 ../../../CloudMeeting/sendimg.cpp:run::33>>>stop sending picture thread: 0x0x16d4a3000
+2025-12-04 17:49:13 ../../../CloudMeeting/sendtext.cpp:run::48>>>stop sending text thread: 0x0x16d5bb000
+2025-12-04 17:49:13 ../../../CloudMeeting/recvsolve.cpp:run::28>>>stop solving data thread: 0x0x16d75f000
+2025-12-04 17:49:13 ../../../CloudMeeting/AudioOutput.cpp:stopPlay::103>>>stop playing audio
+2025-12-04 17:49:15 ../../../CloudMeeting/widget.cpp:~Widget::284>>>-------------------Application End-----------------
+2025-12-04 17:49:20 ../../../CloudMeeting/AudioOutput.cpp:run::119>>>stop playing audio thread 0x0x17906b000
+2025-12-04 17:49:22 ../../../CloudMeeting/sendimg.cpp:run::33>>>stop sending picture thread: 0x0x178c97000
+2025-12-04 17:49:23 ../../../CloudMeeting/sendtext.cpp:run::48>>>stop sending text thread: 0x0x178daf000
+2025-12-04 17:49:25 ../../../CloudMeeting/recvsolve.cpp:run::28>>>stop solving data thread: 0x0x178f53000
+2025-12-04 17:49:27 ../../../CloudMeeting/widget.cpp:~Widget::284>>>-------------------Application End-----------------
+2025-12-04 17:59:56 ../../../CloudMeeting/widget.cpp:Widget::39>>>-------------------------Application Start---------------------------
+2025-12-04 17:59:56 ../../../CloudMeeting/widget.cpp:Widget::40>>>main UI thread id: 0x0x1faf61f00
+2025-12-04 17:59:56 ../../../CloudMeeting/sendimg.cpp:run::17>>>start sending picture thread: 0x0x16fa83000
+2025-12-04 17:59:56 ../../../CloudMeeting/sendtext.cpp:run::35>>>start sending text thread: 0x0x16fb9b000
+2025-12-04 17:59:56 ../../../CloudMeeting/recvsolve.cpp:run::21>>>start solving data thread: 0x0x16fd3f000
+2025-12-04 17:59:56 ../../../CloudMeeting/AudioOutput.cpp:run::111>>>start playing audio thread 0x0x16fe57000
+2025-12-04 18:00:05 ../../../CloudMeeting/widget.cpp:on_connServer_clicked::461>>>Succeeded connecting to 127.0.0.1:8888
+2025-12-04 18:00:08 ../../../CloudMeeting/widget.cpp:Widget::39>>>-------------------------Application Start---------------------------
+2025-12-04 18:00:08 ../../../CloudMeeting/widget.cpp:Widget::40>>>main UI thread id: 0x0x1faf61f00
+2025-12-04 18:00:08 ../../../CloudMeeting/sendimg.cpp:run::17>>>start sending picture thread: 0x0x176d77000
+2025-12-04 18:00:08 ../../../CloudMeeting/sendtext.cpp:run::35>>>start sending text thread: 0x0x176e8f000
+2025-12-04 18:00:08 ../../../CloudMeeting/recvsolve.cpp:run::21>>>start solving data thread: 0x0x177033000
+2025-12-04 18:00:08 ../../../CloudMeeting/AudioOutput.cpp:run::111>>>start playing audio thread 0x0x17714b000
+2025-12-04 18:00:14 ../../../CloudMeeting/widget.cpp:on_createmeetBtn_clicked::308>>>create meeting
+2025-12-04 18:00:16 ../../../CloudMeeting/widget.cpp:datasolve::500>>>succeed creating room 50236
+2025-12-04 18:00:28 ../../../CloudMeeting/widget.cpp:on_connServer_clicked::466>>>Failed to connect 192.168.1.126:8888, error: Socket operation timed out
+2025-12-04 18:00:39 ../../../CloudMeeting/widget.cpp:on_connServer_clicked::461>>>Succeeded connecting to 127.0.0.1:8888
+2025-12-04 18:00:42 ../../../CloudMeeting/AudioOutput.cpp:startPlay::91>>>start playing audio
+2025-12-04 18:00:44 ../../../CloudMeeting/widget.cpp:datasolve::541>>>succeed joining room
+2025-12-04 18:00:44 ../../../CloudMeeting/AudioOutput.cpp:startPlay::91>>>start playing audio
+2025-12-04 18:02:11 ../../../CloudMeeting/AudioOutput.cpp:stopPlay::103>>>stop playing audio
+2025-12-04 18:02:11 ../../../CloudMeeting/AudioOutput.cpp:stopPlay::103>>>stop playing audio
+2025-12-04 18:02:12 ../../../CloudMeeting/widget.cpp:on_exitmeetBtn_clicked::362>>>exit meeting
+2025-12-04 18:02:17 ../../../CloudMeeting/widget.cpp:on_exitmeetBtn_clicked::362>>>exit meeting
+2025-12-04 18:04:53 ../../../CloudMeeting/AudioOutput.cpp:run::119>>>stop playing audio thread 0x0x16fe57000
+2025-12-04 18:04:55 ../../../CloudMeeting/sendimg.cpp:run::33>>>stop sending picture thread: 0x0x16fa83000
+2025-12-04 18:04:55 ../../../CloudMeeting/sendtext.cpp:run::48>>>stop sending text thread: 0x0x16fb9b000
+2025-12-04 18:04:55 ../../../CloudMeeting/recvsolve.cpp:run::28>>>stop solving data thread: 0x0x16fd3f000
+2025-12-04 18:04:55 ../../../CloudMeeting/widget.cpp:~Widget::284>>>-------------------Application End-----------------
+2025-12-04 18:04:56 ../../../CloudMeeting/AudioOutput.cpp:run::119>>>stop playing audio thread 0x0x17714b000
+2025-12-04 18:04:58 ../../../CloudMeeting/sendimg.cpp:run::33>>>stop sending picture thread: 0x0x176d77000
+2025-12-04 18:05:00 ../../../CloudMeeting/sendtext.cpp:run::48>>>stop sending text thread: 0x0x176e8f000
+2025-12-04 18:05:00 ../../../CloudMeeting/recvsolve.cpp:run::28>>>stop solving data thread: 0x0x177033000
+2025-12-04 18:05:00 ../../../CloudMeeting/widget.cpp:~Widget::284>>>-------------------Application End-----------------
+2025-12-04 18:05:07 ../../../CloudMeeting/widget.cpp:Widget::39>>>-------------------------Application Start---------------------------
+2025-12-04 18:05:07 ../../../CloudMeeting/widget.cpp:Widget::40>>>main UI thread id: 0x0x1faf61f00
+2025-12-04 18:05:07 ../../../CloudMeeting/sendimg.cpp:run::17>>>start sending picture thread: 0x0x16f20f000
+2025-12-04 18:05:07 ../../../CloudMeeting/sendtext.cpp:run::35>>>start sending text thread: 0x0x16f327000
+2025-12-04 18:05:07 ../../../CloudMeeting/recvsolve.cpp:run::21>>>start solving data thread: 0x0x16f4cb000
+2025-12-04 18:05:07 ../../../CloudMeeting/AudioOutput.cpp:run::111>>>start playing audio thread 0x0x16f5e3000
+2025-12-04 18:05:11 ../../../CloudMeeting/AudioOutput.cpp:run::119>>>stop playing audio thread 0x0x16f5e3000
+2025-12-04 18:05:13 ../../../CloudMeeting/sendimg.cpp:run::33>>>stop sending picture thread: 0x0x16f20f000
+2025-12-04 18:05:15 ../../../CloudMeeting/sendtext.cpp:run::48>>>stop sending text thread: 0x0x16f327000
+2025-12-04 18:05:15 ../../../CloudMeeting/recvsolve.cpp:run::28>>>stop solving data thread: 0x0x16f4cb000
+2025-12-04 18:05:15 ../../../CloudMeeting/widget.cpp:~Widget::284>>>-------------------Application End-----------------
+2025-12-04 18:05:20 ../../../CloudMeeting/widget.cpp:Widget::39>>>-------------------------Application Start---------------------------
+2025-12-04 18:05:20 ../../../CloudMeeting/widget.cpp:Widget::40>>>main UI thread id: 0x0x1faf61f00
+2025-12-04 18:05:20 ../../../CloudMeeting/sendimg.cpp:run::17>>>start sending picture thread: 0x0x1766a7000
+2025-12-04 18:05:20 ../../../CloudMeeting/sendtext.cpp:run::35>>>start sending text thread: 0x0x1767bf000
+2025-12-04 18:05:20 ../../../CloudMeeting/recvsolve.cpp:run::21>>>start solving data thread: 0x0x176963000
+2025-12-04 18:05:20 ../../../CloudMeeting/AudioOutput.cpp:run::111>>>start playing audio thread 0x0x176a7b000
+2025-12-04 18:05:29 ../../../CloudMeeting/widget.cpp:on_connServer_clicked::461>>>Succeeded connecting to 127.0.0.1:8888
+2025-12-04 18:05:31 ../../../CloudMeeting/widget.cpp:on_createmeetBtn_clicked::308>>>create meeting
+2025-12-04 18:05:33 ../../../CloudMeeting/widget.cpp:datasolve::500>>>succeed creating room 50465
+2025-12-04 18:06:23 ../../../CloudMeeting/AudioOutput.cpp:run::119>>>stop playing audio thread 0x0x176a7b000
+2025-12-04 18:06:25 ../../../CloudMeeting/sendimg.cpp:run::33>>>stop sending picture thread: 0x0x1766a7000
+2025-12-04 18:06:25 ../../../CloudMeeting/sendtext.cpp:run::48>>>stop sending text thread: 0x0x1767bf000
+2025-12-04 18:06:27 ../../../CloudMeeting/recvsolve.cpp:run::28>>>stop solving data thread: 0x0x176963000
+2025-12-04 18:06:27 ../../../CloudMeeting/widget.cpp:~Widget::284>>>-------------------Application End-----------------
+2025-12-04 18:08:22 ../../../CloudMeeting/widget.cpp:Widget::39>>>-------------------------Application Start---------------------------
+2025-12-04 18:08:22 ../../../CloudMeeting/widget.cpp:Widget::40>>>main UI thread id: 0x0x1faf61f00
+2025-12-04 18:08:22 ../../../CloudMeeting/sendimg.cpp:run::17>>>start sending picture thread: 0x0x16d43b000
+2025-12-04 18:08:22 ../../../CloudMeeting/sendtext.cpp:run::35>>>start sending text thread: 0x0x16d553000
+2025-12-04 18:08:22 ../../../CloudMeeting/recvsolve.cpp:run::21>>>start solving data thread: 0x0x16d6f7000
+2025-12-04 18:08:22 ../../../CloudMeeting/AudioOutput.cpp:run::111>>>start playing audio thread 0x0x16d80f000
+2025-12-04 18:08:24 ../../../CloudMeeting/AudioOutput.cpp:run::119>>>stop playing audio thread 0x0x16d80f000
+2025-12-04 18:08:26 ../../../CloudMeeting/sendimg.cpp:run::33>>>stop sending picture thread: 0x0x16d43b000
+2025-12-04 18:08:26 ../../../CloudMeeting/sendtext.cpp:run::48>>>stop sending text thread: 0x0x16d553000
+2025-12-04 18:08:26 ../../../CloudMeeting/recvsolve.cpp:run::28>>>stop solving data thread: 0x0x16d6f7000
+2025-12-04 18:08:26 ../../../CloudMeeting/widget.cpp:~Widget::284>>>-------------------Application End-----------------
+2025-12-04 18:08:32 ../../../CloudMeeting/widget.cpp:Widget::39>>>-------------------------Application Start---------------------------
+2025-12-04 18:08:32 ../../../CloudMeeting/widget.cpp:Widget::40>>>main UI thread id: 0x0x1faf61f00
+2025-12-04 18:08:32 ../../../CloudMeeting/sendimg.cpp:run::17>>>start sending picture thread: 0x0x1791ab000
+2025-12-04 18:08:32 ../../../CloudMeeting/sendtext.cpp:run::35>>>start sending text thread: 0x0x1792c3000
+2025-12-04 18:08:32 ../../../CloudMeeting/recvsolve.cpp:run::21>>>start solving data thread: 0x0x179467000
+2025-12-04 18:08:32 ../../../CloudMeeting/AudioOutput.cpp:run::111>>>start playing audio thread 0x0x17957f000
+2025-12-04 18:08:43 ../../../CloudMeeting/widget.cpp:on_connServer_clicked::461>>>Succeeded connecting to 127.0.0.1:8888
+2025-12-04 18:08:47 ../../../CloudMeeting/widget.cpp:on_createmeetBtn_clicked::308>>>create meeting
+2025-12-04 18:08:48 ../../../CloudMeeting/widget.cpp:datasolve::500>>>succeed creating room 50465
+2025-12-04 18:10:41 ../../../CloudMeeting/AudioOutput.cpp:run::119>>>stop playing audio thread 0x0x17957f000
+2025-12-04 18:10:43 ../../../CloudMeeting/sendimg.cpp:run::33>>>stop sending picture thread: 0x0x1791ab000
+2025-12-04 18:10:44 ../../../CloudMeeting/sendtext.cpp:run::48>>>stop sending text thread: 0x0x1792c3000
+2025-12-04 18:10:46 ../../../CloudMeeting/recvsolve.cpp:run::28>>>stop solving data thread: 0x0x179467000
+2025-12-04 18:10:46 ../../../CloudMeeting/widget.cpp:~Widget::284>>>-------------------Application End-----------------
+2025-12-04 18:15:19 ../../../CloudMeeting/widget.cpp:Widget::39>>>-------------------------Application Start---------------------------
+2025-12-04 18:15:19 ../../../CloudMeeting/widget.cpp:Widget::40>>>main UI thread id: 0x0x1faf61f00
+2025-12-04 18:15:19 ../../../CloudMeeting/sendimg.cpp:run::17>>>start sending picture thread: 0x0x16ded7000
+2025-12-04 18:15:19 ../../../CloudMeeting/sendtext.cpp:run::35>>>start sending text thread: 0x0x16dfef000
+2025-12-04 18:15:19 ../../../CloudMeeting/recvsolve.cpp:run::21>>>start solving data thread: 0x0x16e193000
+2025-12-04 18:15:19 ../../../CloudMeeting/AudioOutput.cpp:run::111>>>start playing audio thread 0x0x16e2ab000
+2025-12-04 18:15:28 ../../../CloudMeeting/widget.cpp:on_connServer_clicked::461>>>Succeeded connecting to 127.0.0.1:8888
+2025-12-04 18:15:34 ../../../CloudMeeting/widget.cpp:on_createmeetBtn_clicked::308>>>create meeting
+2025-12-04 18:15:36 ../../../CloudMeeting/widget.cpp:datasolve::500>>>succeed creating room 50465
+2025-12-04 18:15:46 ../../../CloudMeeting/widget.cpp:Widget::39>>>-------------------------Application Start---------------------------
+2025-12-04 18:15:46 ../../../CloudMeeting/widget.cpp:Widget::40>>>main UI thread id: 0x0x1faf61f00
+2025-12-04 18:15:46 ../../../CloudMeeting/sendimg.cpp:run::17>>>start sending picture thread: 0x0x16b837000
+2025-12-04 18:15:46 ../../../CloudMeeting/sendtext.cpp:run::35>>>start sending text thread: 0x0x16b94f000
+2025-12-04 18:15:46 ../../../CloudMeeting/recvsolve.cpp:run::21>>>start solving data thread: 0x0x16baf3000
+2025-12-04 18:15:46 ../../../CloudMeeting/AudioOutput.cpp:run::111>>>start playing audio thread 0x0x16bc0b000
+2025-12-04 18:16:04 ../../../CloudMeeting/widget.cpp:on_connServer_clicked::461>>>Succeeded connecting to 127.0.0.1:8888
+2025-12-04 18:16:11 ../../../CloudMeeting/AudioOutput.cpp:startPlay::91>>>start playing audio
+2025-12-04 18:16:13 ../../../CloudMeeting/widget.cpp:datasolve::541>>>succeed joining room
+2025-12-04 18:16:13 ../../../CloudMeeting/AudioOutput.cpp:startPlay::91>>>start playing audio
+2025-12-04 18:16:42 ../../../CloudMeeting/AudioOutput.cpp:stopPlay::103>>>stop playing audio
+2025-12-04 18:16:42 ../../../CloudMeeting/AudioOutput.cpp:run::119>>>stop playing audio thread 0x0x16bc0b000
+2025-12-04 18:16:44 ../../../CloudMeeting/sendimg.cpp:run::33>>>stop sending picture thread: 0x0x16b837000
+2025-12-04 18:16:45 ../../../CloudMeeting/AudioOutput.cpp:stopPlay::103>>>stop playing audio
+2025-12-04 18:16:45 ../../../CloudMeeting/AudioOutput.cpp:run::119>>>stop playing audio thread 0x0x16e2ab000
+2025-12-04 18:16:46 ../../../CloudMeeting/sendtext.cpp:run::48>>>stop sending text thread: 0x0x16b94f000
+2025-12-04 18:16:46 ../../../CloudMeeting/recvsolve.cpp:run::28>>>stop solving data thread: 0x0x16baf3000
+2025-12-04 18:16:47 ../../../CloudMeeting/sendimg.cpp:run::33>>>stop sending picture thread: 0x0x16ded7000
+2025-12-04 18:16:48 ../../../CloudMeeting/widget.cpp:~Widget::284>>>-------------------Application End-----------------
+2025-12-04 18:16:48 ../../../CloudMeeting/sendtext.cpp:run::48>>>stop sending text thread: 0x0x16dfef000
+2025-12-04 18:18:31 ../../../CloudMeeting/widget.cpp:Widget::39>>>-------------------------Application Start---------------------------
+2025-12-04 18:18:31 ../../../CloudMeeting/widget.cpp:Widget::40>>>main UI thread id: 0x0x1faf61f00
+2025-12-04 18:18:31 ../../../CloudMeeting/sendimg.cpp:run::17>>>start sending picture thread: 0x0x16fe5b000
+2025-12-04 18:18:31 ../../../CloudMeeting/sendtext.cpp:run::35>>>start sending text thread: 0x0x16ff73000
+2025-12-04 18:18:31 ../../../CloudMeeting/recvsolve.cpp:run::21>>>start solving data thread: 0x0x170117000
+2025-12-04 18:18:31 ../../../CloudMeeting/AudioOutput.cpp:run::111>>>start playing audio thread 0x0x17022f000
+2025-12-04 18:18:32 ../../../CloudMeeting/widget.cpp:Widget::39>>>-------------------------Application Start---------------------------
+2025-12-04 18:18:32 ../../../CloudMeeting/widget.cpp:Widget::40>>>main UI thread id: 0x0x1faf61f00
+2025-12-04 18:18:32 ../../../CloudMeeting/sendtext.cpp:run::35>>>start sending text thread: 0x0x16d4b3000
+2025-12-04 18:18:32 ../../../CloudMeeting/sendimg.cpp:run::17>>>start sending picture thread: 0x0x16d39b000
+2025-12-04 18:18:32 ../../../CloudMeeting/recvsolve.cpp:run::21>>>start solving data thread: 0x0x16d657000
+2025-12-04 18:18:32 ../../../CloudMeeting/AudioOutput.cpp:run::111>>>start playing audio thread 0x0x16d76f000
+2025-12-04 18:18:42 ../../../CloudMeeting/widget.cpp:on_connServer_clicked::461>>>Succeeded connecting to 127.0.0.1:8888
+2025-12-04 18:18:48 ../../../CloudMeeting/widget.cpp:on_connServer_clicked::461>>>Succeeded connecting to 127.0.0.1:8888
+2025-12-04 18:18:51 ../../../CloudMeeting/widget.cpp:on_createmeetBtn_clicked::308>>>create meeting
+2025-12-04 18:19:04 ../../../CloudMeeting/widget.cpp:on_createmeetBtn_clicked::308>>>create meeting
+2025-12-04 18:19:05 ../../../CloudMeeting/widget.cpp:datasolve::500>>>succeed creating room 51096
+2025-12-04 18:19:08 ../../../CloudMeeting/widget.cpp:datasolve::513>>>no empty room
+2025-12-04 18:19:13 ../../../CloudMeeting/AudioOutput.cpp:startPlay::91>>>start playing audio
+2025-12-04 18:19:15 ../../../CloudMeeting/widget.cpp:datasolve::541>>>succeed joining room
+2025-12-04 18:19:15 ../../../CloudMeeting/AudioOutput.cpp:startPlay::91>>>start playing audio
+2025-12-04 18:21:48 ../../../CloudMeeting/AudioOutput.cpp:stopPlay::103>>>stop playing audio
+2025-12-04 18:21:48 ../../../CloudMeeting/AudioOutput.cpp:stopPlay::103>>>stop playing audio
+2025-12-04 18:21:49 ../../../CloudMeeting/widget.cpp:on_exitmeetBtn_clicked::362>>>exit meeting
+2025-12-04 18:21:54 ../../../CloudMeeting/widget.cpp:on_exitmeetBtn_clicked::362>>>exit meeting
+2025-12-04 18:30:12 ../../../CloudMeeting/widget.cpp:on_connServer_clicked::461>>>Succeeded connecting to 127.0.0.1:8888
+2025-12-04 18:30:16 ../../../CloudMeeting/widget.cpp:on_createmeetBtn_clicked::308>>>create meeting
+2025-12-04 18:30:17 ../../../CloudMeeting/widget.cpp:datasolve::500>>>succeed creating room 51294
+2025-12-04 18:30:20 ../../../CloudMeeting/widget.cpp:on_connServer_clicked::461>>>Succeeded connecting to 127.0.0.1:8888
+2025-12-04 18:30:28 ../../../CloudMeeting/widget.cpp:datasolve::541>>>succeed joining room
+2025-12-04 18:31:09 ../../../CloudMeeting/AudioOutput.cpp:run::119>>>stop playing audio thread 0x0x16d76f000
+2025-12-04 18:31:10 ../../../CloudMeeting/sendimg.cpp:run::33>>>stop sending picture thread: 0x0x16d39b000
+2025-12-04 18:31:12 ../../../CloudMeeting/widget.cpp:on_exitmeetBtn_clicked::362>>>exit meeting
+2025-12-04 18:31:12 ../../../CloudMeeting/sendtext.cpp:run::48>>>stop sending text thread: 0x0x16d4b3000
+2025-12-04 18:31:18 ../../../CloudMeeting/AudioOutput.cpp:run::119>>>stop playing audio thread 0x0x17022f000
+2025-12-04 18:31:20 ../../../CloudMeeting/sendimg.cpp:run::33>>>stop sending picture thread: 0x0x16fe5b000
+2025-12-04 18:31:20 ../../../CloudMeeting/sendtext.cpp:run::48>>>stop sending text thread: 0x0x16ff73000
+2025-12-04 18:31:20 ../../../CloudMeeting/recvsolve.cpp:run::28>>>stop solving data thread: 0x0x170117000
+2025-12-04 18:31:20 ../../../CloudMeeting/widget.cpp:~Widget::284>>>-------------------Application End-----------------
